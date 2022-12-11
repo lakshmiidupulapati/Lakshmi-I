@@ -1,0 +1,4 @@
+a=int(inpt('how many bottles less than 1lt:'))
+b=int(input('how many bottles more than 1lt:'))
+refund=(a*0.10)+(b*0.25)
+print('the refund is:',refund,'$')

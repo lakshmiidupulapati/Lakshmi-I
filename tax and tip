@@ -1,0 +1,7 @@
+a=float(input('enter the cost of food:'))
+tip=(18/100)*a
+tax=(18/100)*a
+bill=a+tip+tax
+print('the tip is',tip)
+print('the tax is',max)
+print('the total bill is',bill)

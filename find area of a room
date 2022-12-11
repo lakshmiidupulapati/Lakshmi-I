@@ -1,0 +1,4 @@
+length=float(input('enter length in meters:'))
+width=float(input('enter width in meters:'))
+area=length*width
+print('the area of room is','area',square meter)
